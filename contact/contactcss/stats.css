@@ -1,0 +1,26 @@
+body{
+  user-select: none;
+  overflow-x: hidden;
+  background: #171717;
+}
+
+/* https://stackoverflow.com/questions/43186015/css-hide-scroll-bar-but-have-element-scrollable --- hide scroll bar uwu */
+html {
+  overflow: scroll;
+}
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* make scrollbar transparent */
+}
+
+* {
+  outline: none;
+}
+
+h1, h3, p {
+  color: white;
+}
+
+#botLogo {
+  border-radius: 50%;
+}
