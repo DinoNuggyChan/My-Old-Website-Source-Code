@@ -26,13 +26,13 @@
 </p>
 
 
-[contributors-shield]: https://img.shields.io/github/contributors/Oni-Chan-inc/NuggetBot.svg?style=for-the-badge
-[contributors-url]: https://github.com/Oni-Chan-inc/NuggetBot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Oni-Chan-inc/NuggetBot.svg?style=for-the-badge
-[forks-url]: https://github.com/Oni-Chan-inc/NuggetBot/network/members
-[stars-shield]: https://img.shields.io/github/stars/Oni-Chan-inc/NuggetBot.svg?style=for-the-badge
-[stars-url]: https://github.com/Oni-Chan-inc/NuggetBot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Oni-Chan-inc/NuggetBot.svg?style=for-the-badge
-[issues-url]: https://github.com/Oni-Chan-inc/NuggetBot/issues
+[contributors-shield]: https://img.shields.io/github/contributors/DinoNuggyChan/MyWebsiteSourceCode.svg?style=for-the-badge
+[contributors-url]: https://github.com/DinoNuggyChan/MyWebsiteSourceCode/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/DinoNuggyChan/MyWebsiteSourceCode.svg?style=for-the-badge
+[forks-url]: https://github.com/DinoNuggyChan/MyWebsiteSourceCode/network/members
+[stars-shield]: https://img.shields.io/github/stars/DinoNuggyChan/MyWebsiteSourceCode.svg?style=for-the-badge
+[stars-url]: https://github.com/DinoNuggyChan/MyWebsiteSourceCode/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DinoNuggyChan/MyWebsiteSourceCode.svg?style=for-the-badge
+[issues-url]: https://github.com/DinoNuggyChan/MyWebsiteSourceCode/issues
 
  
