@@ -18,7 +18,7 @@
     <a href="https://nuggetbot.xyz">My Discord Bot</a>
     -  
     -
-    <a href="https://github.com/Oni-Chan-inc/NuggetBot/issues">Report Bug</a>
+    <a href="https://github.com/DinoNuggyChan/MyWebsiteSourceCode/issues">Report Bug</a>
     -
     -
     <a href="https://www.nuggy.space/">My Website</a>
