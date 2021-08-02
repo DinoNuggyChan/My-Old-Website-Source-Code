@@ -8,7 +8,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/DinoNuggyChan/NuggetBot">
+  <a href="https://github.com/DinoNuggyChan/MyWebsiteSourceCode">
     <img src="https://i.imgur.com/jRGxzZS.gif" alt="Logo" width="200" height="200">
   </a>
 
